@@ -16,4 +16,4 @@ This project implements a simple **state machine** using a push button and RGB L
 - Real-time embedded LED control
 
 ### Video Demo
-See [->](https://youtu.be/jgZVr2BOntw)
+See [link](https://youtu.be/jgZVr2BOntw)
